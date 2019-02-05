@@ -9,7 +9,7 @@ If you go into that worksheet and find Column X you see a clickable link the fie
 
 https://drinc.ca.gov/DNN/Portals/0/SelfCert/63457002-98f4-4482-9b89-31fcd43234da.xlsx
 
-SFPUC is a wholesaler, so someone may have to figure out some other way where Zone 7 gets their water from. Looking up the wholesaler ID in SDWIS reveals this: https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=13798&tinwsys_st_code=CA&wsnumber=CA3810008
+SFPUC is a wholesaler, so someone may have to figure out some other way where thie wholesaler gets their water from. Looking up the wholesaler ID in SDWIS reveals this: https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=13798&tinwsys_st_code=CA&wsnumber=CA3810008
 
 Here is the raw PWS facility info to be integrated with source data/information: https://data.ca.gov/dataset/drinking-water-public-water-system-information/resource/0f7743e9-2777-4bbe-a3d4-fe4c9a704c18#{view-graph:{graphOptions:{hooks:{processOffset:{},bindEvents:{}}}},graphOptions:{hooks:{processOffset:{},bindEvents:{}}}}
 
