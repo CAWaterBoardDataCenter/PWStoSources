@@ -7,11 +7,11 @@ The stress test submittals, as received, are posted with self-certification mate
 
 If you go into that worksheet and find Column X you see a clickable link the field: click on Column X link and get something like this…
 
- https://drinc.ca.gov/DNN/Portals/0/SelfCert/8ec86b6c-83a1-4a07-9d32-ed67dd84d8fc.xlsx","WS1"
+https://drinc.ca.gov/DNN/Portals/0/SelfCert/63457002-98f4-4482-9b89-31fcd43234da.xlsx
 
-Zone 7 is a wholesaler, so someone may have to figure out some other way where Zone 7 gets their water from.
+SFPUC is a wholesaler, so someone may have to figure out some other way where Zone 7 gets their water from. Looking up the wholesaler ID in SDWIS reveals this: https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=13798&tinwsys_st_code=CA&wsnumber=CA3810008
 
-PWS facility info: https://data.ca.gov/dataset/drinking-water-public-water-system-information/resource/0f7743e9-2777-4bbe-a3d4-fe4c9a704c18#{view-graph:{graphOptions:{hooks:{processOffset:{},bindEvents:{}}}},graphOptions:{hooks:{processOffset:{},bindEvents:{}}}}
+Here is the raw PWS facility info to be integrated with source data/information: https://data.ca.gov/dataset/drinking-water-public-water-system-information/resource/0f7743e9-2777-4bbe-a3d4-fe4c9a704c18#{view-graph:{graphOptions:{hooks:{processOffset:{},bindEvents:{}}}},graphOptions:{hooks:{processOffset:{},bindEvents:{}}}}
 
 This paper has some LA water sources: https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1473815
  
