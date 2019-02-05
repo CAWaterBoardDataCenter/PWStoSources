@@ -7,7 +7,7 @@ The stress test submittals, as received, are posted with self-certification mate
 
 If you go into that worksheet and find Column X you see a clickable link the field: click on Column X link and get something like this…
 
- 
+ https://drinc.ca.gov/DNN/Portals/0/SelfCert/8ec86b6c-83a1-4a07-9d32-ed67dd84d8fc.xlsx","WS1"
 
 Zone 7 is a wholesaler, so someone may have to figure out some other way where Zone 7 gets their water from.
 
