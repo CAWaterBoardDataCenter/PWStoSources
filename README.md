@@ -63,9 +63,11 @@ Develop a list of data gaps. What data do we need to move forward on this projec
 
 Provide an update on the project. How far did you get? What challenges did you face? How did you overcome these challenges or what do you need to do so?
 
-### Potentially Relevant Datasets
-https://data.ca.gov/dataset/drinking-water-public-water-system-information
-https://data.ca.gov/dataset/drinking-water-laboratory-water-quality-results
-https://data.ca.gov/dataset/drinking-water-public-water-system-annually-reported-water-production-and-delivery
-https://dev.trackingcalifornia.org/water-systems/water-systems-landing
+### Relevant Datasets/Resources
+- https://data.ca.gov/dataset/drinking-water-public-water-system-information
+- https://data.ca.gov/dataset/drinking-water-laboratory-water-quality-results
+- https://data.ca.gov/dataset/drinking-water-public-water-system-annually-reported-water-production-and-delivery
+- https://dev.trackingcalifornia.org/water-systems/water-systems-landing
+- UC Berkeley Spring 2019 PWS Project (also see uploaded files in UC Berkeley Project Folder): https://github.com/richardnnn/PWS_Water_Integration
+- UC Berkeley Spring 2019 Scraping SDWIS Project: https://gist.github.com/fndari/963ce91659950a8b64e833ca004f3f79
 
