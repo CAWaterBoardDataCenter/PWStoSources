@@ -38,6 +38,11 @@ Develop a list of data gaps. What data do we need to move forward on this projec
 
 Provide an update on the project. How far did you get? What challenges did you face? How did you overcome these challenges or what do you need to do so?
 
+### Datathon Debrief
+- The team was to summarize the articulate the challenge, discuss what data we had to solve it, and what data are missing, thus preventing the depth and completeness of the project.
+- Next steps will be to obtain more information about water sources within a groundwater basin or public system boundary. The most detail we can produce is for the entire area within the boundary. Someone would need to collect the areas that each source within their system serves in order for us to bring data to a more detailed location. 
+
+
 ## Relevant Datasets/Resources
 - https://data.ca.gov/dataset/drinking-water-public-water-system-information
 - https://data.ca.gov/dataset/drinking-water-laboratory-water-quality-results
